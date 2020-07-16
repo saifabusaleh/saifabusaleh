@@ -1,5 +1,5 @@
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues"])
 
 <!--
 **saifabusaleh/saifabusaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
