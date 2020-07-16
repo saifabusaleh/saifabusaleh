@@ -1,4 +1,7 @@
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AbusalehSaif)](https://twitter.com/ScientificGhosh/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saif-abusaleh/)](https://www.linkedin.com/in/sudiptoghosh99/)
 
+## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues"])
 
 <!--
