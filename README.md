@@ -1,8 +1,14 @@
+<p align="center">
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AbusalehSaif)](https://twitter.com/ScientificGhosh/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saif-abusaleh/)](https://www.linkedin.com/in/sudiptoghosh99/)
 
-## Stats
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true&count_private=true&theme=dark)
+
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saifabusaleh/count.svg" />
+</p>
 
 <!--
 **saifabusaleh/saifabusaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
