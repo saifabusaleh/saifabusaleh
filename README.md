@@ -1,6 +1,9 @@
+  <!--
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saifabusaleh/count.svg" />
-  
+  -->
+
 ## About me
 
 <p align="center">
