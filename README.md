@@ -8,7 +8,7 @@
 
 <p align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true&count_private=true&theme=dark)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=saifabusaleh&show_icons=true&count_private=true&theme=dark) -->
 
 
   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AbusalehSaif)](https://twitter.com/AbusalehSaif)
