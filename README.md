@@ -15,7 +15,7 @@ I am Full Stack web Developer with a demonstrated history of working with differ
 
   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AbusalehSaif)](https://twitter.com/AbusalehSaif)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saif-abusaleh/)](https://www.linkedin.com/in/saif-abusaleh)
-[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@saif.as7777)](https://medium.com/@saif.as7777)
+[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@saif.as7777)](https://medium.com/@saif.as)
 
 
 </p>
