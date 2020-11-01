@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/saifabusaleh/count.svg" />
   -->
 # About me
-I am Full Stack web Developer with a demonstrated history of working with different technologies and frameworks
+I am Software Developer with a demonstrated history of working with different technologies and frameworks
 
 ### Find me online
 
